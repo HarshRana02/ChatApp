@@ -23,3 +23,6 @@ A real-time messaging application built with **Django** on the backend and **HTM
 - Python (Django)  
 - Django Channels (for WebSocket support)
 
+**Server**  
+- Laptop
+
